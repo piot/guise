@@ -1,4 +1,8 @@
-# Guise
+<h1 align="center">
+    <img src="docs/images/logo.svg" width="256" />
+</h1>
+
+## Introduction
 
 > Guise: outward appearance of someone, which is often different from their real nature.
 
