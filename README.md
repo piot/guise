@@ -6,7 +6,10 @@
 
 > Guise: outward appearance of someone, which is often different from their real nature.
 
-A simplified authentication system. Designed for internal development and testing, do not use in production.
+A simplified authentication system.
+
+> [!IMPORTANT]
+> Designed for internal development and testing, do not use in production.
 
 * [guise-serialize](https://github.com/piot/guise-serialize-c). Serialization of the protocol.
 * [guise-client-c](https://github.com/piot/guise-client-c). Used for user authentication in an application.
