@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
     <img src="docs/images/logo.svg" width="192" />
-</h1>
+</div>
 
 ## Introduction
 
