@@ -13,6 +13,7 @@ A simplified authentication system.
 
 * [guise-serialize](https://github.com/piot/guise-serialize-c). Serialization of the protocol.
 * [guise-client-c](https://github.com/piot/guise-client-c). Used for user authentication in an application.
+* [guise-client-udp-c](https://github.com/piot/guise-client-udp-c). Guise Client with included UDP transport.
 * [guise-server-lib](https://github.com/piot/guise-server-lib). The server part. Can be embedded in another application.
 * [guise-daemon](https://github.com/piot/guise-daemon). Guise server executable designed for deployment. Depends on:
   * [udp-server-c](https://github.com/piot/udp-server-c). receiving and sending UDP datagrams.
